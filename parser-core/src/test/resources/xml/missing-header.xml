@@ -1,0 +1,33 @@
+<root>
+	<carriers>
+		<personal>
+			<name>Telecom Personal</name>
+			<country>Argentina</country>
+			<address>Av. Corrientes 566</address>
+		</personal>
+		<claro>
+			<name>Claro Argentina</name>
+			<country>Argentina</country>
+			<address>Av. Paseo Colon 505</address>
+		</claro>
+	</carriers>
+	<restaurants>
+		<brigada>
+			<name>La Brigada</name>
+			<location>
+				<country>Argentina</country>
+				<neighborhood>San Telmo</neighborhood>
+				<address>Av. Paseo Colon</address>
+			</location>
+		</brigada>
+		<viejoalmacen>
+			<name>El Viejo Almacen</name>
+			<phone>011 4307-7388</phone>
+			<location>
+				<country>Argentina</country>
+				<neighborhood>San Telmo</neighborhood>
+				<address>Av. Independencia 299</address>
+			</location>
+		</viejoalmacen>
+	</restaurants>
+</root>

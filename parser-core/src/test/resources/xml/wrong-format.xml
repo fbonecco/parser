@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<carriers>
+	<personal>
+		<name>Telecom Personal</name>
+		<country>Argentina</country>
+		<address>Av. Corrientes 566</address>
+	</personal>
+	<claro>
+		<name>Claro Argentina</name>
+		<country>Argentina</country>
+		<address>Av. Paseo Colon 505</address>
+	</claro>
+</carriers>

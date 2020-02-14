@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<carriers>
+		<personal>
+		</personal>
+	</carriers>
+	<restaurants>
+		<brigada>
+			<name>La Brigada</name>
+		</brigada>
+	</restaurants>
+</root>

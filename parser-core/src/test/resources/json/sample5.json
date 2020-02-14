@@ -1,0 +1,20 @@
+{
+	"root": [
+		{
+			"carriers": [
+				{
+					"personal": {
+						"name": "Telecom Personal",
+						"country": "Argentina",
+						"address": "Av. Corrientes 566",
+						"network": {
+							"gsm": "true",
+							"3g": "true",
+							"4g": "true"
+						}
+					}
+				}
+			]
+		}
+	]
+}

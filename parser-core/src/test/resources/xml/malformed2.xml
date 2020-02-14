@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<carriers>
+		<personal>aa
+			<name>Telecom Personal</name>
+			<country>Argentina</country>
+			<address>Av. Corrientes 566</address>
+		</personal>
+	</carriers>
+</root>

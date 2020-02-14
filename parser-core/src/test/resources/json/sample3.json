@@ -1,0 +1,24 @@
+{  
+  "root":[  
+    {  
+      "restaurants":[  
+        {  
+          "brigada":{  
+            "location":{  
+              "address":"Estados Unidos 465"
+            }
+          }
+        }
+      ]
+    },
+    {  
+      "carriers":[  
+        {  
+          "personal":{  
+            "name":"Telecom Personal"
+          }
+        }
+      ]
+    }
+  ]
+}

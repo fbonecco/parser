@@ -1,0 +1,22 @@
+{
+	"root": [
+		{
+			"carriers": [
+				{
+					"personal": {
+						"name": "Telecom Personal",
+						"country": "Argentina",
+						"address": "Av. Corrientes 566"
+					}
+				},
+				{
+					"claro": {
+						"name": "Claro Argentina",
+						"country": "Argentina",
+						"address": "Av. Paseo Colón 505"
+					}
+				}
+			]
+		}
+	]
+}

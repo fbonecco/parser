@@ -1,0 +1,29 @@
+{
+	"root": [
+		{
+			"restaurants": [
+				{
+					"brigada": {
+						"name": "La Brigada",
+						"location": {
+							"country": "Argentina",
+							"neighborhood": "San Telmo",
+							"address": "Estados Unidos 465"
+						}
+					}
+				},
+				{
+					"viejoalmacen": {
+						"name": "El Viejo Almacén",
+						"location": {
+							"country": "Argentina",
+							"neighborhood": "San Telmo",
+							"address": "Av. Independencia 299",
+							"phone": "011 4307-7388"
+						}
+					}
+				}
+			]
+		}
+	]
+}
